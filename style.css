@@ -59,7 +59,7 @@ a > img {
 
 figure {
   border-radius: 10px;
-  height: 33vh;
+  height: 35vh;
   position: relative;
 }
 
@@ -68,7 +68,7 @@ figure:hover::after {
   background-color: #5ca72090;
   position: absolute;
   width: 100%;
-  height: 31.5vh;
+  height: 33vh;
   border-radius: 9px;
   cursor: pointer;
   top: 0;
